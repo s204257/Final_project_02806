@@ -1,0 +1,34 @@
+Central idea behind your final project
+
+What is the idea?
+The idea is to analyze when and where vehicle crashes occur most often in New York City by examining factors such as time of day, weather, borough, and cause. This is interesting because understanding these patterns could lead to better traffic policies and help reduce injuries and fatalities.
+
+Which datasets do you need to explore the idea?
+To explore this idea, we will use the Motor Vehicle Collisions / Crashes dataset from NYC Open Data.
+
+A mock-up of the visualization you wish to build
+(Anything is fine here — pen and paper, MS Paint, Inkscape, D3, Midjourney, or any other tool is okay).
+Include your mock-up here.
+
+What genre is it?
+The genre we expect to use for the final project is the partitioned poster, because we believe it is the best way to give a clear overview of the collision data from NYC, while also allowing us to explain the visualizations.
+We also expect to place the visualizations in a logical sequence for the reader, which is why the flow chart genre is also part of our approach.
+
+Why is that genre right for telling the story you want to communicate with the data?
+The partitioned poster genre is well suited because it enables us to break down complex information into smaller, digestible parts. It helps convey different aspects of the data clearly, such as where and when crashes occur most often. The flow chart aspect helps guide the reader through our analysis in a structured, logical way.
+
+Preliminary Data Analysis
+What is the total size of your data?
+679.000 rows and 29 columns
+
+Other properties:
+Date range: year: 2012-2025
+Geo-data: Yes, includes latitude and longitude.
+We plan to make a plot of crash locations on a map of NYC.
+
+Fundamental distributions:
+We will show basic distributions similar to our SF crime data project, such as:
+Crashes by time of day
+Crashes by borough
+Crashes by contributing factor (e.g., speeding, distracted driving)
+Crashes by weather condition
