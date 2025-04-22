@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final Assignment - A Collision Course 
-permalink: /Final Assignment/
+permalink: /FinalAssignment/
 ---
 
 This assignment is for the course 02806 - Social Data Analysis & Visualization. The authors are: 
