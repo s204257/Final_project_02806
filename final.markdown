@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Assignment - A Collision Course 
+title: A Collision Course 
 permalink: /FinalAssignment/
 ---
 
