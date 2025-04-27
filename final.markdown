@@ -21,6 +21,14 @@ The first plot shows the number of people injured in traffic collisions each yea
 
 The second plot shows the number of fatalities resulting from traffic collisions over the same period. Unlike injuries, the number of fatalities remained relatively stable across the years, fluctuating between 67 and 123 deaths annually. Interestingly, while the number of collisions and injuries dropped sharply in 2020, fatalities did not decrease as much — and even remained high compared to earlier years. This may suggest that although there were fewer collisions during the pandemic, the collisions that did occur were often more severe.
 
+## Collision density plot
+
+![Collision density](collision_density_2019_2020.png)
+
+## Contributing factor 
+
+<iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor.html" width = "100%" height="500" frameborder="0"></iframe>
+
 ## Total number of crashes in each borough for 2019 and 2020
 
 <iframe src="{{ site.baseurl }}/crashes_by_borough.html" width = "100%" height="500" frameborder="0"></iframe>
