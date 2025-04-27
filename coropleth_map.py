@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import requests
 import json
+import plotly.io as pio
 
 # Read the data
 file = 'sorted_data.csv'
@@ -37,4 +38,6 @@ fig = px.choropleth(
 )
 
 fig.update_geos(fitbounds="locations", visible=False)  
-fig.show()
+
+# Save the figure as an HTML file
+pio.write_html(fig, file="crashes_by_borough.html", auto_open=True)
