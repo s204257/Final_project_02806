@@ -34,5 +34,5 @@ The second plot shows the number of fatalities resulting from traffic collisions
 <iframe src="{{ site.baseurl }}/crashes_by_borough.html" width = "100%" height="500" frameborder="0"></iframe>
 
 
-## Heatmaps
+## Heatmaps of rushhour
 <iframe src="{{ site.baseurl }}/heatmap.html" width = "100%" height="800" frameborder="0"></iframe>
