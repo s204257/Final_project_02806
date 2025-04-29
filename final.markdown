@@ -35,4 +35,4 @@ The second plot shows the number of fatalities resulting from traffic collisions
 
 
 ## Heatmaps
-<iframe src="{{ site.baseurl }}/heatmap.html" width = "100%" height="500" frameborder="0"></iframe>
+<iframe src="{{ site.baseurl }}/heatmap.html" width = "100%" height="300" frameborder="0"></iframe>
