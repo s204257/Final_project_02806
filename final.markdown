@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Collision Course: Investigating Traffic Safety in New York City
+title: A Collision Course Investigating Traffic Safety in New York City
 permalink: /FinalAssignment/
 ---
 
