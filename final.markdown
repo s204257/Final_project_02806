@@ -35,7 +35,7 @@ In 2020, although the structure of these patterns persisted, the intensity colla
 ## Behavioral Contributors to Crashes
 Every crash has a cause, and in NYC, the leading one is consistently the same: driver inattention or distraction. According to Vision Zero progress reports, this factor accounts for the largest portion of crashes annually (Vision Zero, 2023). Other behaviors—such as failure to yield, tailgating, and illegal turning—persist as secondary causes.
 
-<iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor.html" width = "100%" height="500" frameborder="0"></iframe>
+<iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor.html" width = "120%" height="700" frameborder="0"></iframe>
 
 Despite the pandemic, the distribution of contributing factors changed very little. The data suggests that while volume dropped, the risk landscape stayed largely intact. The challenge of inattentive driving remains unsolved—even when the streets are half-empty.
 
