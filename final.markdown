@@ -53,8 +53,8 @@ A more focused lens on evening rush hours (3 PM to 6 PM) reveals where and when 
 <iframe src="{{ site.baseurl }}/heatmap.html" width = "100%" height="800" frameborder="0"></iframe>
 
 ## References 
-City of New York (2014). [Vision Zero Action Plan](https://www.nyc.gov/html/visionzero/pages/home/home.html)
-New York City Department of Transportation. (2020). [New York City Mobility Report](https://portal.311.nyc.gov/kacategory/?id=311-88)
+* City of New York (2014). [Vision Zero Action Plan](https://www.nyc.gov/html/visionzero/pages/home/home.html)
+* New York City Department of Transportation. (2020). [New York City Mobility Report](https://portal.311.nyc.gov/kacategory/?id=311-88)
 
 ## Explainer notebook 
 
