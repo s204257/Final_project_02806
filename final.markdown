@@ -63,6 +63,17 @@ Furthermore, it is clear from the number of summons made through the years, that
 
 ![Summons](summons_analysis_subplots.png)
 
+
+## A City Still in Motion, but Moving Differently
+
+Over the past decade, traffic in New York City has shifted in unexpected ways. While collisions rose through the mid-2010s, they dropped sharply in 2020—and unlike many other pandemic trends, they haven’t bounced back. As of 2024, crash numbers remain well below pre-pandemic levels, likely due to lasting changes in how people work, commute, and move through the city.
+
+Yet fewer crashes haven’t made streets entirely safer. Fatalities stayed high during the pandemic, and speeding became more common, even with less traffic. Risk didn’t disappear—it changed shape.
+
+Patterns by borough and rush hour remained surprisingly stable, showing that location and timing still play a major role in crash outcomes. And core problems like distracted driving and unsafe speed continue to drive incidents year after year.
+
+New York’s streets have changed—but the need for safety hasn’t. As the city continues to adapt, so must its approach to traffic: with smarter design, focused enforcement, and policies that meet today’s reality, not yesterday’s traffic.
+
 ## References 
 * City of New York (2014). [Vision Zero Action Plan](https://www.nyc.gov/html/visionzero/pages/home/home.html)
 * New York City Department of Transportation. (2020). [New York City Mobility Report](https://portal.311.nyc.gov/kacategory/?id=311-88)
