@@ -45,8 +45,7 @@ When looking at the number of crashes that happened due to "Unsafe Speed" in a n
 
 <iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor_Normalized.html" width = "125%" height="600" frameborder="0"></iframe>
 
-This supports the premise that there were more fatalities in 2020 due to "Unsafe Speed", caused by less people on the roads. 
-
+Furthermore, it is clear from the number of summons made through the years, that in general, speeding is becoming more frequent. When looking at the amount of summons in total for the years 2019 and 2020 and how many of them are from speeding, the suggested trend is confirmed. This means that even though the total amount of crashes has become smaller, the amount of speeding has become larger, which means the risk of fatalities has also become larger. 
 
 ![Summons](summons_analysis_subplots.png)
 
