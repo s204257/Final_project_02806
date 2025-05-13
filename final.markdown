@@ -12,7 +12,7 @@ An analysis of NYPD data from 2013 to 2024 reveals a steady increase in reported
 
 ![Crashes pr. year](motor_vehicle_collisions_by_year.png)
 
-Between 2013 and 2019, traffic collisions in NYC rose steadily, peaking in 2015 with over 85,000 recorded incidents (NYPD, 2024). The trend plateaued thereafter—until 2020, when the pandemic triggered a sharp decline. That year saw an abrupt drop in overall traffic volume as lockdowns and remote work transformed mobility patterns 
+Between 2013 and 2019, traffic collisions in NYC rose steadily, peaking in 2015 with over 85,000 recorded incidents (NYPD, 2024). The trend plateaued thereafter—until 2020, when the pandemic triggered a sharp decline. That year saw an abrupt drop in overall traffic volume as lockdowns and remote work transformed mobility patterns.
 
 Interestingly, collision rates did not fully rebound after restrictions lifted. Instead, post-2020 figures suggest a subtle but lasting reduction in total crashes, raising questions about whether urban travel has permanently changed.
 
@@ -32,6 +32,20 @@ Traffic collisions are deeply influenced by daily rhythms. In 2019, weekday morn
 
 In 2020, although the structure of these patterns persisted, the intensity collapsed, which is especially clear in the morning rush hour. Collision density dropped especially in the morning rush hour — visual proof of the pandemic’s impact on urban life. Still, the presence of rush-hour in the afternoon peaks even during lockdowns speaks to the inertia of human routine.
 
+
+## Geographic Variation: Borough-Level Collisions
+Spatial differences within the city also matter. The following map visualizes total crashes by borough for 2019 and 2020.
+<iframe src="{{ site.baseurl }}/crashes_by_borough.html" width = "100%" height="500" frameborder="0"></iframe>
+Queens and Brooklyn consistently report the highest number of traffic collisions, followed closely by Manhattan. This pattern partly reflects population density and vehicle usage, but geographic size is also a key factor. Queens and Brooklyn are the two of the largest boroughs by area, with extensive road networks, higher car ownership rates, and a significant share of interborough traffic. These structural factors increase exposure and likelihood of vehicle crashes (New York City Department of Transportation, 2020).
+
+In contrast, Staten Island — the smallest in terms of population and among the least connected by mass transit — records the fewest collisions. The maps also reveal a marked decrease in crashes in 2020 across all boroughs, aligning with pandemic-related reductions in travel. Yet the spatial distribution of risk remained largely intact, suggesting persistent geographic patterns in traffic behavior.
+
+## Rush Hour Severity: Injuries and Fatalities
+
+A more focused lens on evening rush hours (3 PM to 6 PM) reveals where and when severe outcomes like injuries and fatalities occur. In 2019, intense hotspots are visible throughout Manhattan and Brooklyn during evening peaks, reflecting high congestion and pedestrian activity. In 2020, while overall counts dropped, critical zones remained — notably around transit hubs and major intersections. These maps highlight the disproportionate severity of certain locations, even during periods of reduced traffic, reinforcing the case for spatially targeted safety interventions.
+
+<iframe src="{{ site.baseurl }}/heatmap.html" width = "100%" height="800" frameborder="0"></iframe>
+
 ## Behavioral Contributors to Crashes
 Every crash has a cause, and in NYC, the leading one is consistently the same: driver inattention or distraction. According to Vision Zero progress reports, this factor accounts for the largest portion of crashes annually (Vision Zero, 2023). Other behaviors—such as failure to yield, tailgating, and illegal turning—persist as secondary causes.
 
@@ -48,19 +62,6 @@ When looking at the number of crashes that happened due to "Unsafe Speed" in a n
 Furthermore, it is clear from the number of summons made through the years, that in general, speeding is becoming more frequent. When looking at the amount of summons in total for the years 2019 and 2020 and how many of them are from speeding, the suggested trend is confirmed. This means that even though the total amount of crashes has become smaller, the amount of speeding has become larger, which means the risk of fatalities has also become larger. 
 
 ![Summons](summons_analysis_subplots.png)
-
-## Geographic Variation: Borough-Level Collisions
-Spatial differences within the city also matter. The following map visualizes total crashes by borough for 2019 and 2020.
-<iframe src="{{ site.baseurl }}/crashes_by_borough.html" width = "100%" height="500" frameborder="0"></iframe>
-Queens and Brooklyn consistently report the highest number of traffic collisions, followed closely by Manhattan. This pattern partly reflects population density and vehicle usage, but geographic size is also a key factor. Queens and Brooklyn are the two of the largest boroughs by area, with extensive road networks, higher car ownership rates, and a significant share of interborough traffic. These structural factors increase exposure and likelihood of vehicle crashes (New York City Department of Transportation, 2020).
-
-In contrast, Staten Island — the smallest in terms of population and among the least connected by mass transit — records the fewest collisions. The maps also reveal a marked decrease in crashes in 2020 across all boroughs, aligning with pandemic-related reductions in travel. Yet the spatial distribution of risk remained largely intact, suggesting persistent geographic patterns in traffic behavior.
-
-## Rush Hour Severity: Injuries and Fatalities
-
-A more focused lens on evening rush hours (3 PM to 6 PM) reveals where and when severe outcomes like injuries and fatalities occur. In 2019, intense hotspots are visible throughout Manhattan and Brooklyn during evening peaks, reflecting high congestion and pedestrian activity. In 2020, while overall counts dropped, critical zones remained — notably around transit hubs and major intersections. These maps highlight the disproportionate severity of certain locations, even during periods of reduced traffic, reinforcing the case for spatially targeted safety interventions.
-
-<iframe src="{{ site.baseurl }}/heatmap.html" width = "100%" height="800" frameborder="0"></iframe>
 
 ## References 
 * City of New York (2014). [Vision Zero Action Plan](https://www.nyc.gov/html/visionzero/pages/home/home.html)
