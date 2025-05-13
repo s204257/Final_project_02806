@@ -37,7 +37,11 @@ Every crash has a cause, and in NYC, the leading one is consistently the same: d
 
 <iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor.html" width = "125%" height="600" frameborder="0"></iframe>
 
-Despite the pandemic, the distribution of contributing factors changed very little. The data suggests that while volume dropped, the risk landscape stayed largely intact. The challenge of inattentive driving remains unsolved—even when the streets are half-empty.
+Despite the pandemic, the distribution of contributing factors changed very little. The data suggests that while volume dropped, the risk landscape stayed largely intact. The challenge of inattentive driving remains unsolved—even when the streets are half-empty. 
+
+From the initial plots we also saw, that the number of fatalies increased in 2020 compared to 2019, despite there being half as many crashes. This indicates, that the crashes in 2020 were more serious than the ones in 2019. A way to explain this, is with the uptick in crashes that were due to "Unsafe Speed" as a contributing factor. 
+
+
 
 ## Geographic Variation: Borough-Level Collisions
 Spatial differences within the city also matter. The following map visualizes total crashes by borough for 2019 and 2020.
