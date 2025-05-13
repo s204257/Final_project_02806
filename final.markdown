@@ -45,7 +45,10 @@ When looking at the number of crashes that happened due to "Unsafe Speed" in a n
 
 <iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor_Normalized.html" width = "125%" height="600" frameborder="0"></iframe>
 
-This supports the premise that there were more fatalities in 2020, due to "Unsafe Speed", caused by less people on the roads. 
+This supports the premise that there were more fatalities in 2020 due to "Unsafe Speed", caused by less people on the roads. 
+
+
+![Summons](summons_analysis_subplots.png)
 
 ## Geographic Variation: Borough-Level Collisions
 Spatial differences within the city also matter. The following map visualizes total crashes by borough for 2019 and 2020.
