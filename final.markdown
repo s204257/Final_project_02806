@@ -37,12 +37,20 @@ Every crash has a cause, and in NYC, the leading one is consistently the same: d
 
 <iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor.html" width = "125%" height="600" frameborder="0"></iframe>
 
-Despite the pandemic, the distribution of contributing factors changed very little. The data suggests that while volume dropped, the risk landscape stayed largely intact. The challenge of inattentive driving remains unsolved—even when the streets are half-empty.
+Despite the pandemic, the distribution of contributing factors changed very little. The data suggests that while volume dropped, the risk landscape stayed largely intact. The challenge of inattentive driving remains unsolved—even when the streets are half-empty. 
+
+From the initial plots we also saw, that the number of fatalies increased in 2020 compared to 2019, despite there being half as many crashes. This indicates, that the crashes in 2020 were more serious than the ones in 2019. Given that the streets were half-empty, the opportunity to drive too fast were greater, which is represented in the fact, that the amount of crashes due to "Unsafe Speed" remained roughly the same for 2019 and 2020. 
+
+When looking at the number of crashes that happened due to "Unsafe Speed" in a normalized plot, it is easier to see the impact it had. There is a greater fraction of these crashes in 2020 than there were in 2019. 
+
+<iframe src="{{ site.baseurl }}/Interactive_Crashes_by_Contributing_Factor_Normalized.html" width = "125%" height="600" frameborder="0"></iframe>
+
+This supports the premise that there were more fatalities in 2020, due to "Unsafe Speed", caused by less people on the roads. 
 
 ## Geographic Variation: Borough-Level Collisions
 Spatial differences within the city also matter. The following map visualizes total crashes by borough for 2019 and 2020.
 <iframe src="{{ site.baseurl }}/crashes_by_borough.html" width = "100%" height="500" frameborder="0"></iframe>
-In Queens and Brooklyn consistently report the highest number of traffic collisions, followed closely by Manhattan. This pattern partly reflects population density and vehicle usage, but geographic size is also a key factor. Queens and Brooklyn are the two of the largest boroughs by area, with extensive road networks, higher car ownership rates, and a significant share of interborough traffic. These structural factors increase exposure and likelihood of vehicle crashes (New York City Department of Transportation, 2020).
+Queens and Brooklyn consistently report the highest number of traffic collisions, followed closely by Manhattan. This pattern partly reflects population density and vehicle usage, but geographic size is also a key factor. Queens and Brooklyn are the two of the largest boroughs by area, with extensive road networks, higher car ownership rates, and a significant share of interborough traffic. These structural factors increase exposure and likelihood of vehicle crashes (New York City Department of Transportation, 2020).
 
 In contrast, Staten Island — the smallest in terms of population and among the least connected by mass transit — records the fewest collisions. The maps also reveal a marked decrease in crashes in 2020 across all boroughs, aligning with pandemic-related reductions in travel. Yet the spatial distribution of risk remained largely intact, suggesting persistent geographic patterns in traffic behavior.
 
