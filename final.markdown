@@ -65,6 +65,8 @@ A more focused lens on evening rush hours (3 PM to 6 PM) reveals where and when 
 ## References 
 * City of New York (2014). [Vision Zero Action Plan](https://www.nyc.gov/html/visionzero/pages/home/home.html)
 * New York City Department of Transportation. (2020). [New York City Mobility Report](https://portal.311.nyc.gov/kacategory/?id=311-88)
+* New York City Police Department [Collisions & Summonses Traffic Data Archive](https://www.nyc.gov/site/nypd/stats/traffic-data/traffic-data-archive.page)
+* New York City OpenData. [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
 ## Explainer notebook 
 
